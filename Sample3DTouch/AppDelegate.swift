@@ -9,12 +9,6 @@
 import UIKit
 import AVFoundation
 
-enum ApplicationShortcutType: String {
-    case Recent = "Recent"
-    case Create = "Create"
-    case Search = "Search"
-}
-
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
